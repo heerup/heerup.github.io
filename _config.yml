@@ -1,13 +1,13 @@
 theme: minima
 title: heerup.github.com
-author: Julian Kopka Heerup
+tagline: a blog
+author: 
+  name: Julian Kopka Heerup
+  email: juliankopkaheerup@gmail.com
+  github: heerup
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://kopka.dk"
+exclude: ["README.md"]
+timezone: Etc/UTC
   
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
